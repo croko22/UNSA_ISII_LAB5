@@ -16,6 +16,6 @@
 **Ejecución:**
 
 **Conclusión:**
-![Test IMG](https://github.com/croko22/UNSA_ISII_LAB5/docs/tests.png)
+![Test IMG](https://github.com/croko22/UNSA_ISII_LAB5/blob/master/docs/tests.png)
 
 Todos los casos de prueba se pasaron correctamente, lo que indica que el método `calculatePercentage` funciona correctamente.

@@ -1,7 +1,7 @@
 
 **Reporte de resultados de casos de prueba implementados**
 
-**Objetivo:** Verificar el funcionamiento del método `calculatePercentage` de la clase `AppWebDriver`.
+**Objetivo:** Verificar el funcionamiento del método `calculatePercentage` de la clase [AppWebDriver](https://github.com/croko22/UNSA_ISII_LAB5/blob/master/src/test/java/functest/AppWebDriver.java).
 
 **Casos de prueba:**
 
